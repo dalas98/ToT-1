@@ -1,0 +1,71 @@
+h1.mercu{
+	color: blue;
+	background-color: black;
+	text-align: center;
+}
+h1#mercubuana{
+	color: lightblue;
+}
+
+h2.mercu{
+	color: yellow;
+}
+body.merah.hitam{
+
+}
+.merah{
+
+}
+.button {
+    background-color: #7B2A3B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover{
+	background-color: #E57661;
+}
+
+.button:focus{
+	background-color: #F8C58C;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 2px solid #7B2A3B;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #86DDB2;
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 2em;
+}
+
+.contoh {
+    font-size: 30px;
+    border: 1px solid black;
+}
+
+span {
+    font-size: 0.5em;
+}
+img{
+	height: 400px;
+	border-radius: 50%;
+}
